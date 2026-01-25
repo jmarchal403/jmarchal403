@@ -6,6 +6,11 @@ I am a senior at the University of Notre Dame interested in using data to make p
 - 🤔 Other data interests: Sustainability through data and renewable energy investments
 - 📫 How to reach me: jmarchal@nd.edu
 - ⚡ Fun fact: I once played Freebird on Broadway in Nashville
+
+
+### Technical skills and tools
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" />
+
 <!--
 **jmarchal403/jmarchal403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
