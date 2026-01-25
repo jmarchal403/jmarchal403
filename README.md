@@ -9,7 +9,8 @@ I am a senior at the University of Notre Dame interested in using data to make p
 
 
 ### Technical skills and tools
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" /> <img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/ac329fcd-4125-4857-97e1-d1bae442d971" /> <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/fbad2f2a-069a-4ee9-92b3-bad873d240d3" />
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" /> <img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/ac329fcd-4125-4857-97e1-d1bae442d971" /> <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/fbad2f2a-069a-4ee9-92b3-bad873d240d3" /> <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e938f218-1a83-45eb-96ca-e2cbc5be335c" />
+
 
 
 
