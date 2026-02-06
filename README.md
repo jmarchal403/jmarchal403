@@ -2,11 +2,19 @@
 
 I am a senior at the University of Notre Dame interested in using data to make productive financial decisions. After graduation, I will be working at a fintech company focused on revolutionizing the alternative investment industry. Outside the world of data, I love to play music, play tennis, and personally review Oscar-winning movies.
 
+- 🎒 What am I studying? I am pursuing a degree in Economics with minors in Data Science and Energy Studies
 - 🌱 I’m currently trying to sharpen my skills in: Python, SQL, and Financial Modeling (through Excel)
 - 🤔 Other data interests: Sustainability through data and renewable energy investments
 - 📫 How to reach me: jmarchal@nd.edu
 - ⚡ Fun fact: I once played Freebird on Broadway in Nashville
 
+### Current Data Related Courses
+-> __Introduction to Data Science__  
+
+What I hope to learn:   
+- Use a variety of Python libraries for data visualization and application development.
+- Utilize EDA and machine learning models to deliver motivating insights  
+- Strengthen my data visualization skills and learn the art of data storytelling 
 
 ### Technical skills and tools
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" /> <img width="125" height="84" alt="image" src="https://github.com/user-attachments/assets/1d79f509-ca50-4562-af03-c0cb8cb8f72e" />
