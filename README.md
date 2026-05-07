@@ -15,7 +15,7 @@ What I have learned this semester:
 - How to use a variety of Python libraries (such as Pandas, Seaborn, and Plotly) for data visualization and application development.
 - Machine learning methods, both supervised and unsupervised, and when it is most appropriate to use each technique
 - How to utilize EDA and machine learning models to deliver motivating insights  
-- How to strengthen my data visualization skills and learn the art of data storytelling 
+- How to strengthen my data visualization skills and display the art of data storytelling 
 
 ### Technical skills and tools
 **Python**
