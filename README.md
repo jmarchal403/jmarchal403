@@ -17,15 +17,15 @@ What I hope to learn:
 - Strengthen my data visualization skills and learn the art of data storytelling 
 
 ### Technical skills and tools
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" />  
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/66e0708c-2698-422d-ae14-07f18b032f0c" />    
 
-<img width="125" height="84" alt="image" src="https://github.com/user-attachments/assets/1d79f509-ca50-4562-af03-c0cb8cb8f72e" />  
+<img width="125" height="84" alt="image" src="https://github.com/user-attachments/assets/1d79f509-ca50-4562-af03-c0cb8cb8f72e" />    
 
- <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/fbad2f2a-069a-4ee9-92b3-bad873d240d3" />   
+ <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/fbad2f2a-069a-4ee9-92b3-bad873d240d3" />     
  
- <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e938f218-1a83-45eb-96ca-e2cbc5be335c" />  
+ <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e938f218-1a83-45eb-96ca-e2cbc5be335c" />    
  
-<img width="400" height="125" alt="image" src="https://github.com/user-attachments/assets/17665c1b-3789-48b3-bfbe-54ffcd114844" />
+<img width="400" height="125" alt="image" src="https://github.com/user-attachments/assets/17665c1b-3789-48b3-bfbe-54ffcd114844" />  
 
 
 ### Recent Works/Portfolios
